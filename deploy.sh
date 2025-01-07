@@ -17,6 +17,6 @@ git add -A
 git commit -m 'deploy'
 
 # if you are deploying to https://<USERNAME>.github.io/<REPOSITORY>
-git push -f git@github.com:Peakmails/peakmails.github.io.git main:gh-pages
+git push -f git@github.com:Peakmails/peakmails.github.io.git master:gh-pages
 
 cd -
