@@ -1,1 +1,0 @@
-import{_ as e,x as t,v as c}from"./Cv8BW3yC.js";const n={},r={class:"bg-gray-100 h-screen w-screen flex items-center justify-center text-center text-4xl font-medium text-gray-700"};function s(o,a){return c(),t("div",r,"peakmails.github.io")}const _=e(n,[["render",s]]);export{_ as default};
